@@ -2,12 +2,18 @@
 
 ## Development Setup
 
-1. Setup `.env` file.
-   1. Create `.env` file in the root folder
-   2. Copy contents of `.sample.env`
-   3. Replace bracketed text with correct credentials
+1. Open up a terminal and clone the repo.
+   ```
+   cd <path>/<to>/<desired>/<folder>
+   git clone https://github.com/KristoferKwan/grocery-list.git
+   cd grocery-list 
+   ```
 
-2. Install and setup backend
+2. Setup `.env` file.
+   1. Create `.env` file in the root folder
+   2. Copy contents of `.sample.env` into `.env`
+
+3. Install and setup backend
 ```
 npm install
 npm run start
