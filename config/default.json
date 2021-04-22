@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://resumanager_admin:resumanager@cluster0.easwk.mongodb.net/resumanager?retryWrites=true&w=majority",
+    "jwtSecret": "resumanager"
+}
